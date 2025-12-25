@@ -4,8 +4,8 @@ Bu proje, Birleşik Krallık’ta meydana gelen trafik kazalarına ait veriler k
 ---
 ## 📦 Veri Seti
 
-- **Kaynak:** Kaggle – *Traffic Flow: England, Scotland & Wales (2000–2016)*
-- **Orijinal veri aralığı:** 2000 – 2016
+- **Kaynak:** Kaggle – *Traffic Flow: England, Scotland & Wales (2005–2014)*
+- **Orijinal veri aralığı:** 2005 – 2014
 - **Bu projede kullanılan dönem:** **2009 – 2014**
 - **Filtreleme nedeni:** 
   Veri tutarlılığı sağlamak ve modelleme sürecinde
@@ -30,4 +30,15 @@ Bu proje, **Miuul Veri Bilimi Bootcamp** kapsamında ekip çalışması olarak g
 - Trafik kazalarında **ölümcül risk oluşturan faktörleri** analiz etmek  
 - Dengesiz veri üzerinde **etkili bir sınıflandırma modeli** geliştirmek  
 - **False Negative (kaçırılan fatal)** vakaları detaylı şekilde incelemek  
-- Model çıktılarının **karar destek sistemlerinde** nasıl kullanılabileceğini göstermek 
+- Model çıktılarının **karar destek sistemlerinde** nasıl kullanılabileceğini göstermek
+
+---
+## 👥 Proje Ekibi
+
+| İsim | LinkedIn | GitHub |
+|:--|:--:|:--:|
+| **Süeda Kazan** | [LinkedIn](https://www.linkedin.com/in/sueda-kazan/) | [GitHub](https://github.com/suedakzn) | 
+| **Herdem Özen** | [LinkedIn](https://www.linkedin.com/in/herdemozen/) | - | 
+
+---
+
