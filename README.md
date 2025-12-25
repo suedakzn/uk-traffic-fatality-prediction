@@ -17,7 +17,7 @@ Bu proje, Birleşik Krallık’ta meydana gelen trafik kazalarına ait veriler k
 ---
 ## 📖 Proje Hakkında
 
-Bu proje, **Miuul Veri Bilimi Bootcamp** kapsamında ekip çalışması olarak geliştirilmiştir.Birleşik Krallık’ın resmi **STATS19** trafik kazası veri seti kullanılarak, **aşırı dengesiz (imbalanced)** bir problem üzerinde bir  sınıflandırma modeli oluşturulmuştur.
+Bu proje, **Miuul Veri Bilimi Bootcamp** kapsamında ekip çalışması olarak geliştirilmiştir.Birleşik Krallık’ın resmi trafik kazası veri seti kullanılarak, **aşırı dengesiz (imbalanced)** bir problem üzerinde bir  sınıflandırma modeli oluşturulmuştur.
 
 Çalışmanın temel odak noktaları:
 - Fatal kazaların kaçırılmaması (**recall odaklı yaklaşım**)
