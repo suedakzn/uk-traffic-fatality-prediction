@@ -48,7 +48,7 @@ Bu proje, **Miuul Veri Bilimi Bootcamp** kapsamında ekip çalışması olarak g
 | İsim | LinkedIn | GitHub |
 |:--|:--:|:--:|
 | **Süeda Kazan** | [LinkedIn](https://www.linkedin.com/in/sueda-kazan/) | [GitHub](https://github.com/suedakzn) | 
-| **Herdem Özen** | [LinkedIn](https://www.linkedin.com/in/herdemozen/) | - | 
+| **Herdem Özen** | [LinkedIn](https://www.linkedin.com/in/herdemozen/) | [GitHub](https://github.com/ozenhrdm) | 
 
 ---
 ## 🔍 Veriden Karara: Proje Süreci
