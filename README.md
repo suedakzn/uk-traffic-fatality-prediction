@@ -14,6 +14,16 @@ Bu proje, Birleşik Krallık’ta meydana gelen trafik kazalarına ait veriler k
 - **Veri bağlantısı:**  
   https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales
 
+### ⚠️ Sınıf Dağılımı (Class Imbalance)
+
+| Accident Severity | Açıklama | Oran (%) |
+|---|---|---:|
+| 3 | Slight (Hafif) | ~85–86% |
+| 2 | Serious (Ciddi) | ~13–14% |
+| 1 | Fatal (Ölümcül) | ~1–2% |
+
+> Fatal sınıfı çok küçük kaldığı için problem **highly imbalanced** kabul edilmiştir.  
+> Bu nedenle accuracy yerine **Recall / Precision / F1** odaklı ilerlenmiş ve **threshold tuning** yapılmıştır.
 ---
 ## 📖 Proje Hakkında
 
