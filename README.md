@@ -128,23 +128,6 @@ Amaç, dengesiz veri yapısında **fatal vakaları mümkün olduğunca kaçırma
 - Bu yüzden **Recall’ı hâlâ yüksek tutarken F1’i iyileştiren** bir nokta olarak **0.20** tercih edildi.
 
 ---
-📊 Örnek Çıktılar
-
-Proje çalıştırıldığında aşağıdaki çıktılar üretilmektedir:
-
-Confusion Matrix
-→ Modelin fatal ve non-fatal sınıfları ayırt etme başarısı
-
-Threshold – Recall / Precision Grafikleri
-→ Farklı eşik değerlerinde performans karşılaştırması
-
-SHAP Summary Plot
-→ Modelin genel karar yapısını gösteren global feature importance
-
-SHAP Waterfall Grafikleri (FN Örnekleri)
-→ Kaçırılan fatal vakalar için modelin neden bu kararı verdiğinin açıklaması
-
----
 ## 🧰 Kullanılan Teknolojiler & Kütüphaneler
 
 Bu projede analiz, görselleştirme, harita tabanlı keşif ve modelleme adımlarında aşağıdaki araçlar kullanılmıştır:
